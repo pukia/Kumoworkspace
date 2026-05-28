@@ -1,9 +1,0 @@
-{
-  "name": "kumoworkspace",
-  "type": "javascript",
-  "compatibility_date": "2026-05-28",
-  "main": "dist/index.html",
-  "assets": {
-    "directory": "dist"
-  }
-}
